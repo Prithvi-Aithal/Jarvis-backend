@@ -20,7 +20,7 @@ def compute_features():
     if not os.path.exists(LOG_FILE):
         return None
 
-    df = pd.read_csv(LOG_FILE)
+    df = pd.read_csv(LOG_FILE, encoding='utf-8', encoding_errors='ignore')
 
     if df.empty:
         return None
@@ -111,7 +111,7 @@ def history():
     if not os.path.exists(LOG_FILE):
         return jsonify([])
 
-    df = pd.read_csv(LOG_FILE)
+    df = pd.read_csv(LOG_FILE, encoding='utf-8', encoding_errors='ignore')
     if df.empty:
         return jsonify([])
 
@@ -162,7 +162,7 @@ def heatmap():
     if not os.path.exists(LOG_FILE):
         return jsonify([])
 
-    df = pd.read_csv(LOG_FILE)
+    df = pd.read_csv(LOG_FILE, encoding='utf-8', encoding_errors='ignore')
     if df.empty:
         return jsonify([])
 

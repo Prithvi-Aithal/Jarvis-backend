@@ -104,3 +104,215 @@ timestamp,app,duration_seconds
 2026-03-13T15:31:56.571444,WhatsApp - Google Chrome,5
 2026-03-13T15:32:01.572280,WhatsApp - Google Chrome,5
 2026-03-13T15:32:06.574423,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T23:13:53.723875,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:13:58.725719,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:14:03.727304,weal - Google Chrome,5
+2026-03-13T23:14:08.729324,weal - Google Chrome,5
+2026-03-13T23:14:13.730404,weal - Google Chrome,5
+2026-03-13T23:14:18.732237,weal - Google Chrome,5
+2026-03-13T23:14:23.734865,weal - Google Chrome,5
+2026-03-13T23:14:28.736868,Unknown,5
+2026-03-13T23:14:33.738367,Jarvis-backend - File Explorer,5
+2026-03-13T23:14:38.739605,weal - Google Chrome,5
+2026-03-13T23:14:43.741049,weal - Google Chrome,5
+2026-03-13T23:14:48.742289,weal - Google Chrome,5
+2026-03-13T23:14:53.743729,weal - Google Chrome,5
+2026-03-13T23:14:58.746308,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:15:03.749407,Prithvi-Aithal/Jarvis-backend - Google Chrome,5
+2026-03-13T23:15:08.750564,Prithvi-Aithal/Jarvis-backend - Google Chrome,5
+2026-03-13T23:15:13.752095,Prithvi-Aithal/Jarvis-backend - Google Chrome,5
+2026-03-13T23:15:18.753907,Prithvi-Aithal/Jarvis-backend - Google Chrome,5
+2026-03-13T23:15:23.754898,(1) WhatsApp - Google Chrome,5
+2026-03-13T23:15:28.756425,weal - Google Chrome,5
+2026-03-13T23:15:33.758402,weal - Google Chrome,5
+2026-03-13T23:15:38.759826,weal - Google Chrome,5
+2026-03-13T23:15:43.761457,weal - Google Chrome,5
+2026-03-13T23:15:48.764060,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:15:53.765007,weal - Google Chrome,5
+2026-03-13T23:15:58.766796,Command Prompt - python  api/app.py,5
+2026-03-13T23:16:03.768238,Command Prompt - python  api/app.py,5
+2026-03-13T23:16:08.769769,Command Prompt - python  api/app.py,5
+2026-03-13T23:16:13.771606,Command Prompt - python  api/app.py,5
+2026-03-13T23:16:18.772676,weal - Google Chrome,5
+2026-03-13T23:16:23.773831,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:16:28.774859,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:16:33.776826,C:\WINDOWS\system32\cmd.exe ,5
+2026-03-13T23:16:38.782233,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:17:52.851182,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:17:57.852089,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:18:02.853501,Unknown,5
+2026-03-13T23:18:07.855485,Unknown,5
+2026-03-13T23:18:12.857897,Unknown,5
+2026-03-13T23:18:17.860195,Command Prompt,5
+2026-03-13T23:18:22.862160,Command Prompt - npm  run dev,5
+2026-03-13T23:18:27.864180,C:\WINDOWS\system32\cmd.exe ,5
+2026-03-13T23:18:32.866575,Command Prompt - python  app.py,5
+2026-03-13T23:18:37.867958,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:18:42.869656,Untitled - Google Chrome,5
+2026-03-13T23:18:47.872482,weal - Google Chrome,5
+2026-03-13T23:18:52.874331,weal - Google Chrome,5
+2026-03-13T23:18:57.875508,weal - Google Chrome,5
+2026-03-13T23:19:02.876389,weal - Google Chrome,5
+2026-03-13T23:19:07.877579,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:19:12.885178,weal - Google Chrome,5
+2026-03-13T23:19:17.888611,Jarvis-backend - File Explorer,5
+2026-03-13T23:19:22.890522,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:19:27.891621,weal - Google Chrome,5
+2026-03-13T23:19:32.892798,(1) WhatsApp - Google Chrome,5
+2026-03-13T23:19:37.894021,weal - Google Chrome,5
+2026-03-13T23:19:42.905377,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:19:47.907389,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:19:52.908987,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:19:57.912471,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:02.914417,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:07.916124,Terminal,5
+2026-03-13T23:20:12.919180,Command Prompt,5
+2026-03-13T23:20:17.921263,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:22.922519,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:27.923283,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:32.924424,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:37.926342,app.py - prith - Visual Studio Code,5
+2026-03-13T23:20:42.927955,app.py - prith - Visual Studio Code,5
+2026-03-13T23:20:47.930029,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:52.931420,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:20:57.932646,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:21:02.933438,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:21:07.934733,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:21:12.936661,app.py - prith - Visual Studio Code,5
+2026-03-13T23:21:17.938405,app.py - prith - Visual Studio Code,5
+2026-03-13T23:21:22.940217,app.py - prith - Visual Studio Code,5
+2026-03-13T23:21:27.941295,app.py - prith - Visual Studio Code,5
+2026-03-13T23:21:32.945654,app.py - prith - Visual Studio Code,5
+2026-03-13T23:21:37.948289,app.py - prith - Visual Studio Code,5
+2026-03-13T23:22:00.722681,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:22:05.761476,Command Prompt - python  app.py,5
+2026-03-13T23:22:10.763906,Command Prompt,5
+2026-03-13T23:22:15.765770,Command Prompt - python  app.py,5
+2026-03-13T23:22:20.767578,Command Prompt,5
+2026-03-13T23:22:25.769584,C:\WINDOWS\system32\cmd.exe ,5
+2026-03-13T23:22:30.771921,Command Prompt,5
+2026-03-13T23:22:35.774010,Command Prompt - npm  run dev,5
+2026-03-13T23:22:40.780189,C:\WINDOWS\system32\cmd.exe ,5
+2026-03-13T23:22:45.792145,Task Switching,5
+2026-03-13T23:22:50.794833,weal - Google Chrome,5
+2026-03-13T23:22:55.796222,weal - Google Chrome,5
+2026-03-13T23:23:00.797886,weal - Google Chrome,5
+2026-03-13T23:23:05.799972,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:23:10.801858,Command Prompt - python  app.py,5
+2026-03-13T23:23:15.803726,Command Prompt - python  app.py,5
+2026-03-13T23:23:20.805038,Command Prompt - python  app.py,5
+2026-03-13T23:23:25.806797,Command Prompt - python  app.py,5
+2026-03-13T23:23:30.808181,Command Prompt - python  app.py,5
+2026-03-13T23:23:35.809767,Command Prompt - python  app.py,5
+2026-03-13T23:23:40.858056,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:23:45.864591,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:23:50.866064,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:23:55.867634,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:24:00.869124,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:24:05.873511,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:24:10.877463,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:15.879142,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:20.885403,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:25.889008,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:30.891515,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:35.895394,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:40.900763,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:45.902044,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:50.904424,app.py - prith - Visual Studio Code,5
+2026-03-13T23:24:55.906341,app.py - prith - Visual Studio Code,5
+2026-03-13T23:25:45.723914,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:25:50.725065,Command Prompt - python  app.py,5
+2026-03-13T23:25:55.726051,Command Prompt - python  app.py,5
+2026-03-13T23:26:00.727999,C:\WINDOWS\system32\cmd.exe ,5
+2026-03-13T23:26:05.729408,weal - Google Chrome,5
+2026-03-13T23:26:10.731119,weal - Google Chrome,5
+2026-03-13T23:26:15.732450,Linking frontend and backend repositories - Claude - Google Chrome,5
+2026-03-13T23:26:20.747202,weal - Google Chrome,5
+2026-03-13T23:26:25.752269,weal - Google Chrome,5
+2026-03-13T23:26:30.754494,weal - Google Chrome,5
+2026-03-13T23:26:35.755938,weal - Google Chrome,5
+2026-03-13T23:26:40.762913,Prithvi-Aithal/Jarvis-backend - Google Chrome,5
+2026-03-13T23:26:45.767545,weal - Google Chrome,5
+2026-03-13T23:26:50.769837,weal - Google Chrome,5
+2026-03-13T23:26:55.773535,weal - Google Chrome,5
+2026-03-13T23:27:00.775478,prith - File Explorer,5
+2026-03-13T23:27:05.778081,Jarvis - File Explorer,5
+2026-03-13T23:27:10.783075,prith - File Explorer,5
+2026-03-13T23:27:15.784465,Jarvis - File Explorer,5
+2026-03-13T23:27:20.786293,Jarvis - File Explorer,5
+2026-03-13T23:27:25.787988,prith - File Explorer,5
+2026-03-13T23:27:30.790013,prith - File Explorer,5
+2026-03-13T23:27:35.791451,prith - File Explorer,5
+2026-03-13T23:27:40.793190,Jarvis-backend - File Explorer,5
+2026-03-13T23:27:45.794521,prith - File Explorer,5
+2026-03-13T23:27:50.796401,prith - File Explorer,5
+2026-03-13T23:27:55.797773,weal - Google Chrome,5
+2026-03-13T23:28:00.798975,weal - Google Chrome,5
+2026-03-13T23:28:05.800776,prith - File Explorer,5
+2026-03-13T23:28:10.802403,prith - File Explorer,5
+2026-03-13T23:28:15.804486,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:28:20.806087,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:28:25.809757,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:28:30.811738,Command Prompt - python  api\tracker.py,5
+2026-03-13T23:28:35.813088,prith - File Explorer,5
+2026-03-13T23:28:40.814850,weal - Google Chrome,5
+2026-03-13T23:28:45.816971,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:28:50.818786,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:28:55.821441,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:00.823121,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:05.824414,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:10.826508,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:15.828266,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:20.830347,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:25.832251,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:30.834083,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:35.835759,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:40.836974,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:45.838085,(3) WhatsApp - Google Chrome,5
+2026-03-13T23:29:50.841539,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:29:56.170510,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:01.172917,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:06.174811,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:11.176438,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:16.177337,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:21.178912,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:26.180694,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:31.184019,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:36.185661,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:41.187055,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:46.191483,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:51.192726,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:30:56.194166,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:01.196257,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:06.197905,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:11.199269,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:16.200471,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:21.201922,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:26.203176,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:31.206192,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:36.208439,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:41.210583,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:46.212286,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:51.213721,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:31:56.215918,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:01.220164,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:06.221293,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:11.222587,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:16.223850,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:21.225723,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:26.227396,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:31.228840,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:36.230251,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:41.232068,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:46.233655,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:51.235915,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:32:56.237287,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:01.238839,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:06.240377,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:11.242223,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:16.243828,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:21.245209,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:26.246977,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:31.248500,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:36.249788,Meet – xqs-ayax-ogr - Google Chrome,5
+2026-03-13T23:33:41.251343,Unknown,5
