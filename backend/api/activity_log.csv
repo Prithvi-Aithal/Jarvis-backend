@@ -1,0 +1,106 @@
+timestamp,app,duration_seconds
+2026-03-13T14:50:39.341565,tracker.py - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T14:50:44.342562,Backend building steps - Claude - Google Chrome,5
+2026-03-13T14:50:49.344119,tracker.py - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:23:41.256823,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:23:46.258556,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:23:51.260672,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:23:56.262874,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:24:01.264948,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:24:06.267166,127.0.0.1:5000/api/status - Google Chrome,5
+2026-03-13T15:24:11.271122,127.0.0.1:5000/api/status - Google Chrome,5
+2026-03-13T15:24:16.273098,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:24:21.276214,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:24:26.277683,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:24:31.279611,You are signed in as PES1UG24CS909 - Google Chrome,5
+2026-03-13T15:24:36.282216,WhatsApp - Google Chrome,5
+2026-03-13T15:24:41.283775,WhatsApp - Google Chrome,5
+2026-03-13T15:24:46.285347,WhatsApp - Google Chrome,5
+2026-03-13T15:24:51.287283,WhatsApp - Google Chrome,5
+2026-03-13T15:24:56.289074,WhatsApp - Google Chrome,5
+2026-03-13T15:25:01.291693,WhatsApp - Google Chrome,5
+2026-03-13T15:25:06.294160,WhatsApp - Google Chrome,5
+2026-03-13T15:25:11.296550,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:25:16.299091,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:25:21.301930,WhatsApp - Google Chrome,5
+2026-03-13T15:25:26.304788,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:25:31.307814,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:25:36.309060,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:25:41.310669,CN Mini Project - File Explorer,5
+2026-03-13T15:25:46.312547,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:25:51.315432,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:25:56.318186,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:26:01.320786,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:26:06.323370,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:26:11.326498,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:26:16.328595,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:26:21.331249,WhatsApp - Google Chrome,5
+2026-03-13T15:26:26.333408,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:26:31.335065,WhatsApp - Google Chrome,5
+2026-03-13T15:26:36.337092,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-13T15:26:41.339032,Unknown,5
+2026-03-13T15:26:46.341129,WhatsApp - Google Chrome,5
+2026-03-13T15:26:51.343373,WhatsApp - Google Chrome,5
+2026-03-13T15:26:56.346321,WhatsApp - Google Chrome,5
+2026-03-13T15:27:01.348698,WhatsApp - Google Chrome,5
+2026-03-13T15:27:06.350931,WhatsApp - Google Chrome,5
+2026-03-13T15:27:11.352872,WhatsApp - Google Chrome,5
+2026-03-13T15:27:16.354688,WhatsApp - Google Chrome,5
+2026-03-13T15:27:21.356519,WhatsApp - Google Chrome,5
+2026-03-13T15:27:26.371187,WhatsApp - Google Chrome,5
+2026-03-13T15:27:31.476422,WhatsApp - Google Chrome,5
+2026-03-13T15:27:36.477773,WhatsApp - Google Chrome,5
+2026-03-13T15:27:41.479125,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:27:46.480345,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:27:51.482589,open.spotify.com - Google Chrome,5
+2026-03-13T15:27:56.484398,open.spotify.com - Google Chrome,5
+2026-03-13T15:28:01.486010,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:28:06.487981,WhatsApp - Google Chrome,5
+2026-03-13T15:28:11.488928,WhatsApp - Google Chrome,5
+2026-03-13T15:28:16.490393,WhatsApp - Google Chrome,5
+2026-03-13T15:28:21.491996,WhatsApp - Google Chrome,5
+2026-03-13T15:28:26.494005,WhatsApp - Google Chrome,5
+2026-03-13T15:28:31.496170,WhatsApp - Google Chrome,5
+2026-03-13T15:28:36.498466,WhatsApp - Google Chrome,5
+2026-03-13T15:28:41.500235,WhatsApp - Google Chrome,5
+2026-03-13T15:28:46.502291,WhatsApp - Google Chrome,5
+2026-03-13T15:28:51.504192,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:28:56.506629,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:29:01.508335,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:29:06.509825,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:29:11.511835,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:29:16.512919,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:29:21.515460,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:29:26.517447,(1) WhatsApp - Google Chrome,5
+2026-03-13T15:29:31.519090,WhatsApp - Google Chrome,5
+2026-03-13T15:29:36.520873,WhatsApp - Google Chrome,5
+2026-03-13T15:29:41.522428,WhatsApp - Google Chrome,5
+2026-03-13T15:29:46.524205,WhatsApp - Google Chrome,5
+2026-03-13T15:29:51.526145,WhatsApp - Google Chrome,5
+2026-03-13T15:29:56.527350,WhatsApp - Google Chrome,5
+2026-03-13T15:30:01.528627,WhatsApp - Google Chrome,5
+2026-03-13T15:30:06.529956,WhatsApp - Google Chrome,5
+2026-03-13T15:30:11.532451,WhatsApp - Google Chrome,5
+2026-03-13T15:30:16.535823,WhatsApp - Google Chrome,5
+2026-03-13T15:30:21.537267,WhatsApp - Google Chrome,5
+2026-03-13T15:30:26.538863,WhatsApp - Google Chrome,5
+2026-03-13T15:30:31.540544,WhatsApp - Google Chrome,5
+2026-03-13T15:30:36.542670,WhatsApp - Google Chrome,5
+2026-03-13T15:30:41.544479,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:30:46.546222,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:30:51.547985,Backend building steps - Claude - Google Chrome,5
+2026-03-13T15:30:56.551518,WhatsApp - Google Chrome,5
+2026-03-13T15:31:01.553316,WhatsApp - Google Chrome,5
+2026-03-13T15:31:06.554988,WhatsApp - Google Chrome,5
+2026-03-13T15:31:11.557188,Snipping Tool Overlay,5
+2026-03-13T15:31:16.558816,127.0.0.1:5000/api/stress - Google Chrome,5
+2026-03-13T15:31:21.560488,WhatsApp - Google Chrome,5
+2026-03-13T15:31:26.561533,WhatsApp - Google Chrome,5
+2026-03-13T15:31:31.563202,WhatsApp - Google Chrome,5
+2026-03-13T15:31:36.564725,WhatsApp - Google Chrome,5
+2026-03-13T15:31:41.566475,WhatsApp - Google Chrome,5
+2026-03-13T15:31:46.567993,WhatsApp - Google Chrome,5
+2026-03-13T15:31:51.569744,WhatsApp - Google Chrome,5
+2026-03-13T15:31:56.571444,WhatsApp - Google Chrome,5
+2026-03-13T15:32:01.572280,WhatsApp - Google Chrome,5
+2026-03-13T15:32:06.574423,training_data.csv - WEAL Hackathon Project - Visual Studio Code,5

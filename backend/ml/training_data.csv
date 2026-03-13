@@ -1,0 +1,11 @@
+screen_time,continuous_usage,night_usage,app_switches,breaks,productive_ratio,stress
+120,30,0,10,5,0.7,Low
+200,45,10,15,4,0.6,Low
+250,50,10,20,3,0.5,Medium
+300,60,20,25,3,0.5,Medium
+320,70,25,30,2,0.4,Medium
+350,80,30,35,2,0.4,Medium
+400,100,60,50,1,0.3,High
+420,110,70,55,1,0.25,High
+450,120,80,60,1,0.2,High
+500,150,100,80,0,0.1,High
