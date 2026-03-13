@@ -1,14 +1,17 @@
 import sys
 import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'ml'))
 
 from flask import Flask, jsonify
 from flask_cors import CORS
 import pandas as pd
+from ml.predictor import predict_stress_from_tracker
 
 import getpass
 
-from predictor import predict_stress
+from ml.predictor import predict_stress_from_tracker
 
 app = Flask(__name__)
 CORS(app)
@@ -55,13 +58,13 @@ def compute_features():
     }
 
 @app.route("/api/stress", methods=["GET"])
-def stress():
+def get_stress():
     features = compute_features()
 
     if features is None:
         return jsonify({"error": "No activity data yet. Run tracker.py first."}), 400
 
-    stress_level = predict_stress(
+    stress_level = predict_stress_from_tracker(
         features["screen_time"],
         features["continuous_usage"],
         features["night_usage"],
@@ -138,7 +141,7 @@ def history():
         distracting_count = group[group["app"].str.contains('|'.join(distracting), case=False, na=False)].shape[0]
         productive_ratio = round(1 - (distracting_count / max(total_entries, 1)), 2)
 
-        stress_level = predict_stress(
+        stress_level = predict_stress_from_tracker(
             screen_time, screen_time, night_usage,
             app_switches, breaks, productive_ratio
         )
@@ -186,6 +189,11 @@ def heatmap():
 @app.route("/api/status", methods=["GET"])
 def status():
     return jsonify({"status": "Backend running", "user": getpass.getuser()})
+
+@app.route("/stress")
+def stress():
+    result = predict_stress_from_tracker()
+    return jsonify({"stress_level": int(result)})
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
