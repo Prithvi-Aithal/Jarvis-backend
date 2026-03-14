@@ -963,80 +963,558 @@ timestamp,app,duration_seconds
 2026-03-14 16:57:48.991963,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
 2026-03-14 16:57:53.993971,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
 2026-03-14 16:57:58.995646,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:05:36.927937,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:05:41.929745,WhatsApp - Google Chrome,5
-2026-03-14T17:05:46.930737,(856) How to Use Lightning After 10 Years ? - YouTube - Google Chrome,5
-2026-03-14T17:05:52.025318,(856) How to Use Lightning After 10 Years ? - YouTube - Google Chrome,5
-2026-03-14T17:05:57.031515,(856) How to Use Lightning After 10 Years ? - YouTube - Google Chrome,5
-2026-03-14T17:06:02.045415,WhatsApp - Google Chrome,5
-2026-03-14T17:06:07.047405,WhatsApp - Google Chrome,5
-2026-03-14T17:06:12.049653,WhatsApp - Google Chrome,5
-2026-03-14T17:06:17.051343,WhatsApp - Google Chrome,5
-2026-03-14T17:06:22.052539,WhatsApp - Google Chrome,5
-2026-03-14T17:06:27.054445,WhatsApp - Google Chrome,5
-2026-03-14T17:06:32.055375,WhatsApp - Google Chrome,5
-2026-03-14T17:06:37.056621,WhatsApp - Google Chrome,5
-2026-03-14T17:06:42.058336,WhatsApp - Google Chrome,5
-2026-03-14T17:06:47.059969,WhatsApp - Google Chrome,5
-2026-03-14T17:06:52.061784,WhatsApp - Google Chrome,5
-2026-03-14T17:06:57.063518,WhatsApp - Google Chrome,5
-2026-03-14T17:07:02.065255,WhatsApp - Google Chrome,5
-2026-03-14T17:07:07.066579,WhatsApp - Google Chrome,5
-2026-03-14T17:07:12.067835,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:07:17.069706,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:07:22.073676,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:07:27.075646,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:07:32.076996,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:07:37.082321,WhatsApp - Google Chrome,5
-2026-03-14T17:07:42.084700,WhatsApp - Google Chrome,5
-2026-03-14T17:07:47.088567,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:07:52.090520,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:07:57.091975,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:02.095123,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:07.097283,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:12.099049,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:17.100901,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:22.102436,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:27.104062,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:32.105215,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:37.106569,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:42.107955,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
-2026-03-14T17:08:47.110062,weal - Google Chrome,5
-2026-03-14T17:08:52.111388,weal - Google Chrome,5
-2026-03-14T17:08:57.114466,weal - Google Chrome,5
-2026-03-14T17:09:02.116636,weal - Google Chrome,5
-2026-03-14T17:09:07.118369,weal - Google Chrome,5
-2026-03-14T17:09:12.121129,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:09:17.123929,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:09:22.138321,weal - Google Chrome,5
-2026-03-14T17:09:27.140307,weal - Google Chrome,5
-2026-03-14T17:09:32.144435,weal - Google Chrome,5
-2026-03-14T17:09:37.145849,weal - Google Chrome,5
-2026-03-14T17:09:42.147418,weal - Google Chrome,5
-2026-03-14T17:09:47.148579,weal - Google Chrome,5
-2026-03-14T17:09:52.150185,weal - Google Chrome,5
-2026-03-14T17:09:57.705172,Unknown,5
-2026-03-14T17:10:02.780735,Home - File Explorer,5
-2026-03-14T17:10:07.923225,Unknown,5
-2026-03-14T17:10:12.935815,weal - Google Chrome,5
-2026-03-14T17:10:17.945604,weal - Google Chrome,5
-2026-03-14T17:10:22.947724,weal - Google Chrome,5
-2026-03-14T17:10:27.951168,weal - Google Chrome,5
-2026-03-14T17:10:32.952611,weal - Google Chrome,5
-2026-03-14T17:10:37.956371,weal - Google Chrome,5
-2026-03-14T17:10:42.958064,weal - Google Chrome,5
-2026-03-14T17:10:47.960129,weal - Google Chrome,5
-2026-03-14T17:10:52.961120,weal - Google Chrome,5
-2026-03-14T17:10:57.963280,weal - Google Chrome,5
-2026-03-14T17:11:02.968403,weal - Google Chrome,5
-2026-03-14T17:11:08.000444,weal - Google Chrome,5
-2026-03-14T17:11:13.003926,weal - Google Chrome,5
-2026-03-14T17:11:18.005554,weal - Google Chrome,5
-2026-03-14T17:11:23.010561,weal - Google Chrome,5
-2026-03-14T17:11:28.013205,weal - Google Chrome,5
-2026-03-14T17:11:33.016155,weal - Google Chrome,5
-2026-03-14T17:11:38.019934,weal - Google Chrome,5
-2026-03-14T17:11:43.023481,weal - Google Chrome,5
-2026-03-14T17:11:48.026409,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:11:53.028560,Meet ? meq-fqrt-dyj - Google Chrome,5
-2026-03-14T17:11:58.033556,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:05:36.927937,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:05:41.929745,WhatsApp - Google Chrome,5
+2026-03-14 17:05:46.930737,(856) How to Use Lightning After 10 Years ? - YouTube - Google Chrome,5
+2026-03-14 17:05:52.025318,(856) How to Use Lightning After 10 Years ? - YouTube - Google Chrome,5
+2026-03-14 17:05:57.031515,(856) How to Use Lightning After 10 Years ? - YouTube - Google Chrome,5
+2026-03-14 17:06:02.045415,WhatsApp - Google Chrome,5
+2026-03-14 17:06:07.047405,WhatsApp - Google Chrome,5
+2026-03-14 17:06:12.049653,WhatsApp - Google Chrome,5
+2026-03-14 17:06:17.051343,WhatsApp - Google Chrome,5
+2026-03-14 17:06:22.052539,WhatsApp - Google Chrome,5
+2026-03-14 17:06:27.054445,WhatsApp - Google Chrome,5
+2026-03-14 17:06:32.055375,WhatsApp - Google Chrome,5
+2026-03-14 17:06:37.056621,WhatsApp - Google Chrome,5
+2026-03-14 17:06:42.058336,WhatsApp - Google Chrome,5
+2026-03-14 17:06:47.059969,WhatsApp - Google Chrome,5
+2026-03-14 17:06:52.061784,WhatsApp - Google Chrome,5
+2026-03-14 17:06:57.063518,WhatsApp - Google Chrome,5
+2026-03-14 17:07:02.065255,WhatsApp - Google Chrome,5
+2026-03-14 17:07:07.066579,WhatsApp - Google Chrome,5
+2026-03-14 17:07:12.067835,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:07:17.069706,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:07:22.073676,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:07:27.075646,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:07:32.076996,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:07:37.082321,WhatsApp - Google Chrome,5
+2026-03-14 17:07:42.084700,WhatsApp - Google Chrome,5
+2026-03-14 17:07:47.088567,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:07:52.090520,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:07:57.091975,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:02.095123,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:07.097283,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:12.099049,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:17.100901,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:22.102436,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:27.104062,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:32.105215,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:37.106569,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:42.107955,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 17:08:47.110062,weal - Google Chrome,5
+2026-03-14 17:08:52.111388,weal - Google Chrome,5
+2026-03-14 17:08:57.114466,weal - Google Chrome,5
+2026-03-14 17:09:02.116636,weal - Google Chrome,5
+2026-03-14 17:09:07.118369,weal - Google Chrome,5
+2026-03-14 17:09:12.121129,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:09:17.123929,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:09:22.138321,weal - Google Chrome,5
+2026-03-14 17:09:27.140307,weal - Google Chrome,5
+2026-03-14 17:09:32.144435,weal - Google Chrome,5
+2026-03-14 17:09:37.145849,weal - Google Chrome,5
+2026-03-14 17:09:42.147418,weal - Google Chrome,5
+2026-03-14 17:09:47.148579,weal - Google Chrome,5
+2026-03-14 17:09:52.150185,weal - Google Chrome,5
+2026-03-14 17:09:57.705172,Unknown,5
+2026-03-14 17:10:02.780735,Home - File Explorer,5
+2026-03-14 17:10:07.923225,Unknown,5
+2026-03-14 17:10:12.935815,weal - Google Chrome,5
+2026-03-14 17:10:17.945604,weal - Google Chrome,5
+2026-03-14 17:10:22.947724,weal - Google Chrome,5
+2026-03-14 17:10:27.951168,weal - Google Chrome,5
+2026-03-14 17:10:32.952611,weal - Google Chrome,5
+2026-03-14 17:10:37.956371,weal - Google Chrome,5
+2026-03-14 17:10:42.958064,weal - Google Chrome,5
+2026-03-14 17:10:47.960129,weal - Google Chrome,5
+2026-03-14 17:10:52.961120,weal - Google Chrome,5
+2026-03-14 17:10:57.963280,weal - Google Chrome,5
+2026-03-14 17:11:02.968403,weal - Google Chrome,5
+2026-03-14 17:11:08.000444,weal - Google Chrome,5
+2026-03-14 17:11:13.003926,weal - Google Chrome,5
+2026-03-14 17:11:18.005554,weal - Google Chrome,5
+2026-03-14 17:11:23.010561,weal - Google Chrome,5
+2026-03-14 17:11:28.013205,weal - Google Chrome,5
+2026-03-14 17:11:33.016155,weal - Google Chrome,5
+2026-03-14 17:11:38.019934,weal - Google Chrome,5
+2026-03-14 17:11:43.023481,weal - Google Chrome,5
+2026-03-14 17:11:48.026409,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:11:53.028560,Meet ? meq-fqrt-dyj - Google Chrome,5
+2026-03-14 17:11:58.033556,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14 20:00:27.714449,SmartNotifications.tsx - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 20:00:32.720648,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:00:37.725645,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:00:42.727820,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:00:47.741125,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:00:52.747043,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:00:57.753085,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:01:02.764054,SmartNotifications.tsx - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 20:01:07.770403,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:12.776733,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:17.784110,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:22.788969,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:27.796817,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:32.803195,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:37.807716,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:42.816014,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:47.822499,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:52.828467,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:01:57.834618,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:02.840627,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:07.846768,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:12.852946,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:17.857377,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:22.857737,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:27.863515,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:32.869320,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:37.876004,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:42.880767,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:47.888289,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:52.894697,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:02:57.900321,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:02.905842,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:07.912798,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:12.917463,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:17.933731,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:22.941030,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:27.945178,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:32.955732,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:37.957031,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:42.964539,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:47.971504,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:52.977813,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:03:57.983890,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:02.989838,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:07.996304,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:13.002559,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:18.008268,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:23.013888,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:28.021077,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:33.027117,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:38.033458,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:43.037882,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:48.045688,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:53.052189,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:04:58.058429,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:03.062620,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:08.068712,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:13.074918,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:18.081079,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:23.087273,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:28.094551,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:33.101766,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:38.107841,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:43.112074,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:48.120171,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:53.125333,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:05:58.130773,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:03.138556,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:08.144360,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:13.154069,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:18.157608,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:23.163844,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:28.169234,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:33.176153,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:38.181708,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:43.189264,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:48.194985,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:53.198934,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:06:58.206881,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:03.213572,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:08.219632,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:13.226214,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:18.231080,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:23.238220,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:28.245174,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:33.250845,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:38.257018,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:43.265276,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:48.269084,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:53.274692,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:07:58.280020,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:03.287795,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:08.292499,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:13.301510,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:18.306208,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:23.313343,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:28.319800,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:33.325536,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:38.331753,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:43.339091,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:48.345056,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:53.349073,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:08:58.357456,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:09:03.360709,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:09:08.369331,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:09:13.375177,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:09:18.380840,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:09:23.387307,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:09:28.387557,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:09:33.391634,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:09:38.392268,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:09:43.397302,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:09:48.401125,SmartNotifications.tsx - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 20:09:53.408082,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:09:58.419111,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:03.424359,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:08.430314,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:13.430348,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:18.445184,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:23.450679,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:28.462666,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:33.476518,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:38.476552,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:43.486983,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:48.497132,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:53.500619,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:10:58.508693,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:03.515411,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:08.521829,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:13.524550,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:18.539200,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:23.544519,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:28.546248,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:33.551186,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:38.557707,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:43.561796,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:48.561899,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:53.563993,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:11:58.576233,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:12:03.581990,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:12:08.588495,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:12:13.589533,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:12:18.596440,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:12:23.602673,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:12:28.609478,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:12:33.620982,SmartNotifications.tsx - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 20:12:38.629758,train_model.py - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 20:12:43.630338,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:12:48.635660,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:12:53.641826,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:12:58.648112,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:03.654398,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:08.660420,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:13.674721,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:18.688500,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:23.696542,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:28.703151,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:33.709574,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:38.715240,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:43.721631,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:48.727895,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:53.741189,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:13:58.748341,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:03.753592,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:08.766995,New Tab - Google Chrome,5
+2026-03-14 20:14:13.770460,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:18.772922,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:23.774319,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:28.786191,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:33.794930,(10) WhatsApp - Google Chrome,5
+2026-03-14 20:14:38.797174,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:14:43.798314,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:48.805582,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:53.816705,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:14:58.826156,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:03.833238,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:08.837023,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:13.844823,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:18.851453,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:23.855624,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:28.864590,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:33.870023,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:38.875892,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:43.882546,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:48.889132,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:53.893212,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:15:58.898539,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:03.907529,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:08.914331,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:13.919739,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:18.925845,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:23.932054,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:28.939549,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:33.944889,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:38.950859,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:43.957529,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:48.964120,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:53.967311,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:16:58.975402,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:03.981797,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:08.987713,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:13.994463,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:19.000112,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:24.007768,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:29.012822,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:34.019740,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:39.025607,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:44.028914,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:49.035166,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:54.041483,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:17:59.045791,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:18:04.054202,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:18:09.057946,Real-time screen time tracking and wellness score updates - Claude - Google Chrome,5
+2026-03-14 20:18:14.061955,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:19.070099,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:24.084416,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:29.091476,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:34.100079,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:39.115785,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:44.125992,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:49.137382,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:54.139584,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:18:59.154086,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:19:04.162797,(5) WhatsApp - Google Chrome,5
+2026-03-14 20:19:09.166945,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:14.177981,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:19.178773,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:24.188229,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:29.194961,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:34.210565,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:39.215004,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:44.226178,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:49.228122,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:54.241361,(6) WhatsApp - Google Chrome,5
+2026-03-14 20:19:59.244007,(7) WhatsApp - Google Chrome,5
+2026-03-14 20:20:04.258029,(7) WhatsApp - Google Chrome,5
+2026-03-14 20:20:09.262511,(7) WhatsApp - Google Chrome,5
+2026-03-14 20:20:14.267537,(7) WhatsApp - Google Chrome,5
+2026-03-14 20:20:19.270768,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:20:24.278918,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:20:29.289679,weal - Personal - Microsoft? Edge,5
+2026-03-14 20:20:34.292459,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:50:26.486904,train_model.py - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 22:50:31.496896,train_model.py - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 22:50:36.509426,train_model.py - WEALLLL_FINAL - Visual Studio Code,5
+2026-03-14 22:50:41.511614,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:50:46.522863,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:50:51.529503,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:50:56.536396,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:01.549481,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:06.557842,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:11.565571,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:16.582316,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:21.599189,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:26.607016,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:31.611389,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:36.617587,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:41.621347,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:46.629875,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:51.635682,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:51:56.648850,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:52:01.657398,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:52:06.669290,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:52:11.700234,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:52:16.709393,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:52:21.750266,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:52:26.780958,Unknown,5
+2026-03-14 22:52:31.786738,pages - File Explorer,5
+2026-03-14 22:52:36.807131,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:52:41.814835,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:52:46.819640,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:52:51.823910,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:52:56.833395,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:53:01.846625,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:53:06.854938,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 22:53:11.858245,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:53:16.870682,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:53:21.884217,WEALLLL_FINAL - File Explorer,5
+2026-03-14 22:53:26.898092,Projects - File Explorer,5
+2026-03-14 22:53:31.909551,Projects - File Explorer,5
+2026-03-14 22:53:36.911104,Projects - File Explorer,5
+2026-03-14 22:53:41.926899,Projects - File Explorer,5
+2026-03-14 22:53:46.936248,Hm - File Explorer,5
+2026-03-14 22:53:51.941293,Compressing...,5
+2026-03-14 22:53:56.958995,Compressing...,5
+2026-03-14 22:54:01.974809,Compressing...,5
+2026-03-14 22:54:06.978074,Compressing...,5
+2026-03-14 22:54:11.992996,Compressing...,5
+2026-03-14 22:54:17.002323,Compressing...,5
+2026-03-14 22:54:22.009096,Compressing...,5
+2026-03-14 22:54:27.016776,Compressing...,5
+2026-03-14 22:54:32.026718,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:54:37.033095,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:54:42.040630,weal - Personal - Microsoft? Edge,5
+2026-03-14 22:54:47.050851,Unknown,5
+2026-03-14 22:54:52.060982,Compressing...,5
+2026-03-14 22:54:57.082287,Compressing...,5
+2026-03-14 22:55:02.119533,Compressing...,5
+2026-03-14 22:55:07.254689,Compressing...,5
+2026-03-14 22:55:12.324537,Compressing...,5
+2026-03-14 22:55:17.336081,Compressing...,5
+2026-03-14 22:55:22.384570,Compressing...,5
+2026-03-14 22:55:27.409245,Compressing...,5
+2026-03-14 22:55:32.413817,Compressing...,5
+2026-03-14 22:55:37.422134,Compressing...,5
+2026-03-14 22:55:42.434734,Compressing...,5
+2026-03-14 22:55:47.442461,Compressing...,5
+2026-03-14 22:55:52.452833,Compressing...,5
+2026-03-14 22:55:57.456769,Compressing...,5
+2026-03-14 22:56:02.468954,Compressing...,5
+2026-03-14 22:56:07.482349,Compressing...,5
+2026-03-14 22:56:12.501546,Compressing...,5
+2026-03-14 22:56:17.540850,Compressing...,5
+2026-03-14 22:56:22.548980,Compressing...,5
+2026-03-14 22:56:27.555043,Compressing...,5
+2026-03-14 22:56:32.575100,Compressing...,5
+2026-03-14 22:56:37.586765,Compressing...,5
+2026-03-14 22:56:42.590441,Compressing...,5
+2026-03-14 22:56:47.602653,Compressing...,5
+2026-03-14 22:56:52.614766,Compressing...,5
+2026-03-14 22:56:57.623630,Compressing...,5
+2026-03-14 22:57:02.639385,Compressing...,5
+2026-03-14 22:57:07.651018,Compressing...,5
+2026-03-14 22:57:12.661581,Compressing...,5
+2026-03-14 22:57:17.663878,Compressing...,5
+2026-03-14 22:57:22.673974,Compressing...,5
+2026-03-14 22:57:27.690756,Compressing...,5
+2026-03-14 22:57:32.704951,Compressing...,5
+2026-03-14 22:57:37.708055,Compressing...,5
+2026-03-14 22:57:42.726588,Compressing...,5
+2026-03-14 22:57:47.729512,Compressing...,5
+2026-03-14 22:57:52.736618,Compressing...,5
+2026-03-14 22:57:57.814920,Compressing...,5
+2026-03-14 22:58:03.029036,Compressing...,5
+2026-03-14 22:58:08.039319,Compressing...,5
+2026-03-14 22:58:13.050665,Compressing...,5
+2026-03-14 22:58:18.054117,Compressing...,5
+2026-03-14 22:58:23.064688,Compressing...,5
+2026-03-14 22:58:28.074962,Compressing...,5
+2026-03-14 22:58:33.079429,Hm - File Explorer,5
+2026-03-14 22:58:38.086721,Unknown,5
+2026-03-14 22:58:43.092546,(6) WhatsApp - Google Chrome,5
+2026-03-14 22:58:48.103373,Open,5
+2026-03-14 22:58:53.112322,Open,5
+2026-03-14 22:58:58.119179,(6) WhatsApp - Google Chrome,5
+2026-03-14 22:59:03.141462,(6) WhatsApp - Google Chrome,5
+2026-03-14 22:59:08.144659,New Tab - Google Chrome,5
+2026-03-14 22:59:13.164573,New Tab - Google Chrome,5
+2026-03-14 22:59:18.179486,New Tab - Google Chrome,5
+2026-03-14 22:59:23.197529,New Tab - Google Chrome,5
+2026-03-14 22:59:28.206408,New Tab - Google Chrome,5
+2026-03-14 22:59:33.219440,New Tab - Google Chrome,5
+2026-03-14 22:59:38.223399,New Tab - Google Chrome,5
+2026-03-14 22:59:43.230754,New Tab - Google Chrome,5
+2026-03-14 22:59:48.234976,New Tab - Google Chrome,5
+2026-03-14 22:59:53.243143,New Tab - Google Chrome,5
+2026-03-14 22:59:58.251768,New Tab - Google Chrome,5
+2026-03-14 23:00:03.252241,New Tab - Google Chrome,5
+2026-03-14 23:00:08.260681,New Tab - Google Chrome,5
+2026-03-14 23:00:13.277723,New Tab - Google Chrome,5
+2026-03-14 23:00:18.289363,New Tab - Google Chrome,5
+2026-03-14 23:00:23.294965,New Tab - Google Chrome,5
+2026-03-14 23:00:28.304678,New Tab - Google Chrome,5
+2026-03-14 23:00:33.314917,New Tab - Google Chrome,5
+2026-03-14 23:00:38.316322,New Tab - Google Chrome,5
+2026-03-14 23:00:43.324852,New Tab - Google Chrome,5
+2026-03-14 23:00:48.325060,New Tab - Google Chrome,5
+2026-03-14 23:00:53.332233,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:00:58.339217,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:01:03.353582,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:01:08.365606,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:01:13.371120,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:01:18.380885,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:01:23.382434,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:01:28.389188,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:01:33.404728,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:01:38.412586,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:01:43.429895,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:01:48.434897,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:01:53.459640,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:01:58.464729,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:03.474063,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:08.483761,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:13.499486,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:18.502471,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:23.507682,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:28.513650,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:33.523239,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:38.533142,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:43.544099,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:48.551260,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:53.555090,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:02:58.567874,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:03.582361,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:08.593122,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:13.603255,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:18.614697,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:23.625071,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:28.639331,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:33.654892,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:38.660350,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:43.671543,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:48.727512,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:53.734348,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:03:58.736468,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:04:03.742108,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:04:08.754999,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:04:13.759434,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:04:18.765169,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:04:23.775958,New Tab - Google Chrome,5
+2026-03-14 23:04:28.790460,GitHub - Google Chrome,5
+2026-03-14 23:04:33.804881,Meet - zyz-bxuu-cem,5
+2026-03-14 23:04:38.817335,Meet - zyz-bxuu-cem,5
+2026-03-14 23:04:43.827126,New repository - Google Chrome,5
+2026-03-14 23:04:48.832343,New repository - Google Chrome,5
+2026-03-14 23:04:53.835132,New repository - Google Chrome,5
+2026-03-14 23:04:58.851663,New repository - Google Chrome,5
+2026-03-14 23:05:03.863421,DevMatrix06/Weal-Digital_AI - Google Chrome,5
+2026-03-14 23:05:08.867096,DevMatrix06/Weal-Digital_AI - Google Chrome,5
+2026-03-14 23:05:13.881265,DevMatrix06/Weal-Digital_AI - Google Chrome,5
+2026-03-14 23:05:18.890879,DevMatrix06/Weal-Digital_AI - Google Chrome,5
+2026-03-14 23:05:23.900564,DevMatrix06/Weal-Digital_AI - Google Chrome,5
+2026-03-14 23:05:28.910216,ChatGPT - Google Chrome,5
+2026-03-14 23:05:33.912942,Projects - File Explorer,5
+2026-03-14 23:05:38.923342,Projects - File Explorer,5
+2026-03-14 23:05:43.935807,User request unclear - Google Chrome,5
+2026-03-14 23:05:48.950427,Projects - File Explorer,5
+2026-03-14 23:05:53.957229,Push to GitHub - Google Chrome,5
+2026-03-14 23:05:58.960501,Push to GitHub - Google Chrome,5
+2026-03-14 23:06:03.973038,/usr/bin/bash --login -i??????????????????????????????????????????????????,5
+2026-03-14 23:06:08.983155,MINGW64:/c/Users/tejas??????????????????????????????????????????????????,5
+2026-03-14 23:06:13.994785,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:18.998024,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:24.007100,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:29.018055,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:34.032283,Push to GitHub - Google Chrome,5
+2026-03-14 23:06:39.039277,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:44.041677,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:49.056947,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:54.064958,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:06:59.072201,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:07:04.088097,MINGW64:/d/Projects/WEALLLL_FINAL??????????????????????????????????????????????????,5
+2026-03-14 23:07:09.102257,DevMatrix06/Weal-Digital_AI - Google Chrome,5
+2026-03-14 23:07:14.117938,DevMatrix06/Weal-Digital_AI - Google Chrome,5
+2026-03-14 23:07:19.125861,(7) WhatsApp - Google Chrome,5
+2026-03-14 23:07:24.130841,Meet - zyz-bxuu-cem - Google Chrome,5
+2026-03-14 23:07:29.133469,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:07:34.150383,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:07:39.167157,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:07:44.182284,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:07:49.198179,(7) WhatsApp - Google Chrome,5
+2026-03-14 23:07:54.209831,(6) WhatsApp - Google Chrome,5
+2026-03-14 23:07:59.223835,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:08:04.227006,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:08:09.233662,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:08:14.251331,(5) WhatsApp - Google Chrome,5
+2026-03-14 23:08:19.266150,(5) WhatsApp - Google Chrome,5
+2026-03-14T23:26:52.389529,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14T23:26:57.390284,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14T23:27:02.391204,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14T23:27:07.392144,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14T23:27:12.393437,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
+2026-03-14T23:27:17.397934,Untitled - Google Chrome,5
+2026-03-14T23:27:22.400614,weal - Google Chrome,5
+2026-03-14T23:27:27.402438,weal - Google Chrome,5
+2026-03-14T23:27:32.403763,weal - Google Chrome,5
+2026-03-14T23:27:37.405572,weal - Google Chrome,5
+2026-03-14T23:27:42.407222,weal - Google Chrome,5
+2026-03-14T23:27:47.408773,weal - Google Chrome,5
+2026-03-14T23:27:52.409991,weal - Google Chrome,5
+2026-03-14T23:27:57.411515,weal - Google Chrome,5
+2026-03-14T23:28:02.413129,weal - Google Chrome,5
+2026-03-14T23:28:07.414937,weal - Google Chrome,5
+2026-03-14T23:28:12.415703,weal - Google Chrome,5
+2026-03-14T23:28:17.417192,weal - Google Chrome,5
+2026-03-14T23:28:22.419132,weal - Google Chrome,5
+2026-03-14T23:28:27.421218,WhatsApp - Google Chrome,5
+2026-03-14T23:28:32.422367,useJarvisData.ts - WEAL Hackathon Project - Visual Studio Code,5
