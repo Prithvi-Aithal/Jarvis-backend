@@ -12,8 +12,7 @@ def predict_stress_from_tracker(
     breaks,
     productive_ratio
 ):
-
-    features = np.array([[ 
+    features = np.array([[
         screen_time,
         continuous_usage,
         night_usage,
@@ -24,10 +23,11 @@ def predict_stress_from_tracker(
 
     prediction = model.predict(features)[0]
 
-    mapping = {
-        0: "Low",
-        1: "Medium",
-        2: "High"
-    }
+    # FIX: model was trained on string labels so prediction is already a string.
+    # Old code mapped int 0/1/2 -> string, which always missed and returned "Medium".
+    if prediction in ("Low", "Medium", "High"):
+        return prediction
 
-    return mapping.get(prediction, "Medium")
+    # Fallback if model is ever retrained with numeric labels
+    mapping = {0: "Low", 1: "Medium", 2: "High"}
+    return mapping.get(int(prediction), "Medium")
